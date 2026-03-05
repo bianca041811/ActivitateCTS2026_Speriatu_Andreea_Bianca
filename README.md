@@ -1,0 +1,1 @@
+# ActivitateCTS2026_Speriatu_Andreea_Bianca
