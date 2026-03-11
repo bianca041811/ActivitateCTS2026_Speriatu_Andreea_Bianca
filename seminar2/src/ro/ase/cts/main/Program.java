@@ -14,7 +14,7 @@ public class Program {
 		List<Aplicant> listaAngajati;
 		try {
 			ReaderAplicanti ra=new ReaderAngajati();
-			listaAngajati = ra.readAplicanti("angajati.txt");
+			listaAngajati = ra.readAplicanti("C:\\\\Users\\\\Bianca\\\\IdeaProjects\\\\ActivitateCTS2026_Speriatu_Andreea_Bianca\\\\Seminar2\\\\angajati.txt");
 			for(Aplicant aplicant:listaAngajati)
 				System.out.println(aplicant.toString());
 		} catch (FileNotFoundException e) {
