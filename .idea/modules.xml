@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActivitateCTS2026_Speriatu_Andreea_Bianca.iml" filepath="$PROJECT_DIR$/ActivitateCTS2026_Speriatu_Andreea_Bianca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlatformaStreaming/PlatformaStreaming.iml" filepath="$PROJECT_DIR$/PlatformaStreaming/PlatformaStreaming.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrototypeS06/PrototypeS06.iml" filepath="$PROJECT_DIR$/PrototypeS06/PrototypeS06.iml" />
       <module fileurl="file://$PROJECT_DIR$/RestaurantFastFood/RestaurantFastFood.iml" filepath="$PROJECT_DIR$/RestaurantFastFood/RestaurantFastFood.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pizzaT1/pizzaT1SimpleFactory.iml" filepath="$PROJECT_DIR$/pizzaT1/pizzaT1SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/pregatiretest1/pregatiretest1.iml" filepath="$PROJECT_DIR$/pregatiretest1/pregatiretest1.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar1/seminar1.iml" filepath="$PROJECT_DIR$/seminar1/seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar2/seminar2.iml" filepath="$PROJECT_DIR$/seminar2/seminar2.iml" />
