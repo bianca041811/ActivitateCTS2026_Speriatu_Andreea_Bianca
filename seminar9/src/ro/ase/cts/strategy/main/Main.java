@@ -1,0 +1,7 @@
+package ro.ase.cts.strategy.main;
+
+public class Main {
+    public static void main(String[] args) {
+
+    }
+}
