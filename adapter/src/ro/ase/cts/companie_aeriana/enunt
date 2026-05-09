@@ -1,0 +1,5 @@
+Compania aeriană achiziționează un nou sistem pentru check-in online.
+Sistemul existent al aeroportului validează pasagerii folosind metoda: verificaPasaport()
+Noul sistem de check-in online folosește însă metoda:confirmaIdentitate()
+Cele două sisteme trebuie să funcționeze împreună fără modificarea codului existent al aplicațiilor.
+Se dorește implementarea unui nivel intermediar care să permită utilizarea noului sistem împreună cu sistemul existent al aeroportului.
