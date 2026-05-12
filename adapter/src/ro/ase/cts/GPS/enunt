@@ -1,0 +1,3 @@
+O companie de livrări implementează un nou sistem GPS,
+ însă aplicația veche de monitorizare a vehiculelor nu poate comunica direct cu acesta.
+Se dorește utilizarea ambelor sisteme fără modificarea lor.
